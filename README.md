@@ -1,3 +1,3 @@
 # Kokoa Clone 2024 Update
 
-CSS practice file
+HTML & CSS practice file
